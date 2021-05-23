@@ -1,0 +1,6 @@
+{
+  "port": 5000,
+  "jwtSecret": "dukwar",
+  "mongoUri": "mongodb+srv://dukwar:0AA9ldnAVfmDyf4d@cluster0.kkjyr.mongodb.net/app?retryWrites=true&w=majority",
+  "baseUrl": "http://localhost:5000"
+}
